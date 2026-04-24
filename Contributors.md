@@ -1,4 +1,4 @@
-<img width="1193" height="644" alt="image" src="https://github.com/user-attachments/assets/1bec7ecf-a258-476d-9fcd-03a01ebde783" /># Contributors
+# Contributors
 - [Sri Venkatesh](https://github.com/WHENKEY2007)
 - [Priyanshu Ojha](https://github.com/Priyannshu)
 - [Moonshade](https://github.com/WMXB-Z)
