@@ -560,7 +560,6 @@ Vinayakrishna
 - [Shivraj](https://github.com/Shiv0087)
 - shriman181
 -[Rakesh Dintakurthi](https://github.com/rakeshdintakurthi)
-- [RANJAN SHARMA](https://github.com/22054204/)
 -[Neha Dubey](https://github.com/Nehainit)
 - [Najad M](https://github.com/najadsayshi)
 -[Aman Shukla](https://github.com/amanshukla2005)
@@ -1908,6 +1907,7 @@ Alejandro Alfaro
 - [Ralph Merhi](https://github.com/ralph1233)
 - [Ram S](https://github.com/RamSamudrala05)
 - [Raman Nazarov](https://github.com/PAUSED8826)
+- [RANJAN SHARMA](https://github.com/22054204/)
 - [Nicholas Sobchak](https://github.com/NicholasSobchak)
 - [Ramesh Mummina](https://github.com/rameshmummina7)
 - [RanZhang](https://github.com/rannnnn037)
